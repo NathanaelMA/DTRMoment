@@ -19,3 +19,8 @@ build/
 # OS
 .DS_Store
 Thumbs.db
+
+# Large video files
+*.mov
+*.mp4
+src/images/dtrMoment.mov
